@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm dwoird64 Cyber Enthusiast from Germany.
+### - I'm dword64 Cyber Enthusiast from Germany.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dword64/dword64/blob/main/assets/1936.gif">
 
