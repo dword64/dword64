@@ -31,24 +31,31 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages <!--& Tools 👨‍💻--> 🛠:
 </br>
 
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/python.png" alt="python" width="125" hight="50">
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/csharp.png" alt="C#" width="90" hight="50">
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/csharp.png" alt="C#" width="85" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/bash.png" alt="bash" width="105" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/html.png" alt="html" width="115" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/js.png" alt="js" width="145" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/php.png" alt="php" width="100" hight="50">
+
+<!--
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/docker.png" alt="docker" width="170" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="285" hight="50">
 </br>
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/docker.png" alt="docker" width="270" hight="50">
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/security.png" alt="Security" width="100" hight="50">
-<img src="https://github.com/dword64/dword64/blob/main/assets/icons/xcode.png" alt="xcode" width="150" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/pc.png" alt="pc" width="150" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/security.png" alt="Security" width="200" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/xcode.png" alt="xcode" width="185" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/qt.png" alt="pc" width="150" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/unity.png" alt="Security" width="200" hight="50">
+<img src="https://github.com/dword64/dword64/blob/main/assets/icons/eclipse.png" alt="eclipse" width="200" hight="50">
+-->
 </p>
 </br>
 </br>
@@ -62,7 +69,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/dword64/dword64/blob/main/assets/93195.gif">
+<img hight="320" width="450" align="middle" alt="GIF" src="https://github.com/dword64/dword64/blob/main/assets/93195.gif">
 
 
  
@@ -74,13 +81,3 @@
 </br>
 </br>
 </br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="ttps://github-readme-stats.vercel.app/api?username=dword64&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
