@@ -35,11 +35,11 @@
 </br>
 
 <p align="center">
-
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/python.png" alt="python" width="125" hight="50">
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/csharp.png" alt="C#" width="85" hight="50">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="35" hight="50">
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/bash.png" alt="bash" width="105" hight="50">
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/html.png" alt="html" width="115" hight="50">
 <img src="https://github.com/dword64/dword64/blob/main/assets/icons/js.png" alt="js" width="145" hight="50">
