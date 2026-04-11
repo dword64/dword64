@@ -59,7 +59,7 @@ on cloud infrastructure.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dword64&theme=tokyo-night&hide_border=true&background=0d1117&ring=8e44ad&fire=8e44ad&currStreakLabel=8e44ad)](https://github.com/dword64)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dword64&theme=default&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)](https://github.com/dword64)
 
 </div>
 
