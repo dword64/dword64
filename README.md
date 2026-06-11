@@ -50,6 +50,7 @@ on cloud infrastructure.
 
 | Project | Description |
 |:---|:---|
+| [**Hera**](https://hera.dword.xyz) | Real time anti-cheat update tracker - hashes, version diffs & downloads for Akros, BattlEye, EAC, EA-Javelin & Vanguard |
 | [**VTIL-Project**](https://vtil.cc) | Virtual-machine Translation Intermediate Language - optimizing compiler toolset for binary de-obfuscation, de-virtualization & static analysis |
 | [**Mergen**](https://github.com/NaC-L/Mergen) | Deobfuscation via optimization using LLVM IR and assembly parsing |
 | [**micREsoft**](https://github.com/micREsoft) | Private org - reverse engineering & security research |
